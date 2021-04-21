@@ -1,3 +1,9 @@
 h1{
-    color: #f00;
+    background-color: #7451eb;
+    color: #fff;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-family: Montserrat;
 }
